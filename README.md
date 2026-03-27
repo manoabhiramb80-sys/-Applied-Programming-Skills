@@ -62,4 +62,16 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
