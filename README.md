@@ -24,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
