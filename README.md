@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -39,11 +40,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
