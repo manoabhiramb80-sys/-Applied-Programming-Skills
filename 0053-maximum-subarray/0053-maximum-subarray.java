@@ -1,18 +1,17 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int n = nums.length;
-        int maxSum = Integer.MIN_VALUE;
-        int currSum = 0;
-
-        for(int i = 0; i < n; i++){
-            currSum = currSum + nums[i];
+        // Initialize currMaxSum & take first element of array from which we start to do sum...
+        int maxSum = nums[0];
+        // Initialize the current sum of our subarray as nums[0]...
+        int currSum = nums[0];
+        // Traverse all the element through the loop...
+        for (int i = 1; i < nums.length; i++) {
+            // Do sum of elements contigous with curr sum...
+            // Compare it with array element to get maximum result...
+            currSum = Math.max(currSum + nums[i], nums[i]);
+            // Compare current sum and max sum.
             maxSum = Math.max(maxSum, currSum);
-
-             if(currSum < 0){
-                currSum = 0;
-            }
         }
-
-        return maxSum;
+        return maxSum;      // return the contiguous subarray which has the largest sum...
     }
 }
