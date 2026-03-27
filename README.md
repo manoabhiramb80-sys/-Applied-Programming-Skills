@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0053-maximum-subarray/) | Medium |
+| [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
 ## Sliding Window
@@ -68,6 +70,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
@@ -82,6 +85,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -95,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
