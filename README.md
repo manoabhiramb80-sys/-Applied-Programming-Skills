@@ -16,6 +16,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -58,5 +60,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
