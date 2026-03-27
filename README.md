@@ -8,6 +8,7 @@
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -77,4 +79,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1603-design-parking-system/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
