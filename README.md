@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Hash Table
@@ -47,5 +48,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
