@@ -12,6 +12,7 @@
 | [0733-flood-fill](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0733-flood-fill/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0929-unique-email-addresses](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -47,6 +48,7 @@
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0929-unique-email-addresses](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Hash Table
@@ -58,6 +60,7 @@
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0929-unique-email-addresses](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
 | [1600-throne-inheritance](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1600-throne-inheritance/) | Medium |
