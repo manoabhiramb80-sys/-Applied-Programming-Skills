@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0053-maximum-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -43,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
@@ -55,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
@@ -187,6 +190,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
