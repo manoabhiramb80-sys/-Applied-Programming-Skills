@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0053-maximum-subarray/) | Medium |
+| [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -116,6 +117,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
@@ -127,6 +129,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
@@ -139,6 +142,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -156,6 +160,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
