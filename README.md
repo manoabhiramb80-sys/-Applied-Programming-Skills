@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0053-maximum-subarray/) | Medium |
+| [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -116,18 +117,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [1600-throne-inheritance](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1600-throne-inheritance/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -138,5 +142,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
