@@ -8,6 +8,7 @@
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
@@ -119,6 +120,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -129,4 +131,8 @@
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
