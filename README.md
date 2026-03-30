@@ -133,6 +133,7 @@
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0994-rotting-oranges/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -149,6 +150,7 @@
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
+| [1129-shortest-path-with-alternating-colors](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
