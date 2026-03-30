@@ -117,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0841-keys-and-rooms/) | Medium |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0841-keys-and-rooms/) | Medium |
@@ -141,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -154,4 +157,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
