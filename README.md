@@ -8,6 +8,7 @@
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
 ## Divide and Conquer
@@ -49,6 +50,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1396-design-underground-system](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1396-design-underground-system/) | Medium |
 | [1600-throne-inheritance](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1600-throne-inheritance/) | Medium |
 ## Sliding Window
@@ -125,5 +127,6 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
