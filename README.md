@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0202-happy-number](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0705-design-hashset](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0705-design-hashset/) | Easy |
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0202-happy-number](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0721-accounts-merge/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
