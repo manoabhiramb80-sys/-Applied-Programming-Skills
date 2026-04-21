@@ -19,6 +19,7 @@
 | [0997-find-the-town-judge](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1472-design-browser-history/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +201,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/0202-happy-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/manoabhiramb80-sys/-Applied-Programming-Skills/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
